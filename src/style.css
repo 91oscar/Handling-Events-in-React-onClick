@@ -1,0 +1,9 @@
+.style {
+    background-color: steelblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    border-radius: 20px;
+    padding: 20px;
+}
